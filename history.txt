@@ -1,0 +1,488 @@
+    1  dotnet
+    2  ls
+    3  cd Documents
+    4  mkdir kpireportsRandD
+    5  cd kpireportsRandD
+    6  git clone https://justngo@bitbucket.org/CQ-DEVELOPERS/kpireports.git
+    7  git clone https://justngo@bitbucket.org/CQ-DEVELOPERS/kpireports.git
+    8  cls
+    9  claer
+   10  cs
+   11  cl
+   12  cls
+   13  cmd
+   14  cls
+   15  cmd
+   16  func
+   17  powershell
+   18  cd ~
+   19  cd documents
+   20  mkdir hellofunctions
+   21  cd hellofunctions
+   22  func init
+   23  npm install -g azure-functions-core-tools@3
+   24  sudo npm install npm -g
+   25  ls
+   26  cd documents
+   27  ls
+   28  cd 'Visual Studio 2015'
+   29  ls
+   30  cd Projects
+   31  ls
+   32  cd Website8
+   33  ls
+   34  git fetch && git checkout WebKPIReports
+   35  git push -u origin BRANCH
+   36  git push -u origin WebKPIReports
+   37  ls
+   38  git checkout -b new_feature master
+   39  ls
+   40  git checkout master
+   41  git merge WebKPIReports
+   42  git pull --allow-unrelated-histories
+   43  git pull WebKPIReports master --allow-unrelated-histories
+   44  ls
+   45  git merge WebKPIReports --allow-unrelated-histories
+   46  ls
+   47  git push -u origin WebKPIReports
+   48  ls
+   49  ls
+   50  git fetch && git checkout WebKPIReports
+   51  code .
+   52  git add .gitignore
+   53  git commit
+   54  cd desktop
+   55  mkdir thekpireports
+   56  cd thekpireports
+   57  ls
+   58  git fetch && git checkout WebKPIReports
+   59  git fetch && git checkout WebKPIReports
+   60  cd ~
+   61  git fetch && git checkout WebKPIReports
+   62  cd desktop/thekpireports
+   63  git init
+   64  git fetch && git checkout WebKPIReports
+   65  git fetch
+   66  git fetch && git checkout WebKPIReports
+   67  git fetch
+   68  git checkout WebKPIReports
+   69  cd ~
+   70  ls
+   71  cd repository
+   72  ls
+   73  ls
+   74  cd ~
+   75  cd documents
+   76  ls
+   77  cd ~
+   78  cd desktop
+   79  cd thekpireports
+   80  ls
+   81  git checkout WebKPIReports
+   82  cd ~
+   83  git fetch && git checkout WebKPIReports
+   84  ls
+   85  cd Sourcecd Source
+   86  cd Source
+   87  ls
+   88  cd Repos
+   89  ls
+   90  cd kpireports
+   91  ls
+   92  git add C:\Users\qngobeni\Documents\Visual Studio 2015\Projects\WebSite8
+   93  ls
+   94  git push WebKPIReports kpireports
+   95  git push origin kpireports:WebKPIReports
+   96  git merge origin/WebKPIReports
+   97  CD DESKTOP
+   98  cd documents
+   99  ls
+  100  cd 'Visual Studio 2015'
+  101  ls
+  102  cd Projects
+  103  ls
+  104  cd website8
+  105  ls
+  106  rmdir CQWMS
+  107  ls
+  108  git initi
+  109  git init
+  110  ls
+  111  cd .git
+  112  ls
+  113  cd /documents/Visual Studio 2015/Projects/website8
+  114  cd '/documents/Visual Studio 2015/Projects/website8'
+  115  cd 'documents/Visual Studio 2015/Projects/website8'
+  116  cd '~/documents/Visual Studio 2015/Projects/website8'
+  117  cd ~
+  118  cd '/documents/Visual Studio 2015/Projects/website8'
+  119  cd /documents/Visual Studio 2015/Projects/website8
+  120  cd documents
+  121  cd 'Visual Studio 2015'
+  122  cd Projects
+  123  cd website8
+  124  ls
+  125  git merge webkpireports
+  126  git commit
+  127  cd document
+  128  cd documents
+  129  cd 'Visual Studio 2015/Projetcs/website8'
+  130  cd 'Visual Studio 2015'
+  131  cd Projects
+  132  cd website8
+  133  code .
+  134  git commit
+  135  git fetch --prune
+  136  git status
+  137  git commit
+  138  git add '/Documents/Visual Studio 2015/WebSites/WebSite8'
+  139  cd ~
+  140  git add '/Documents/Visual Studio 2015/WebSites/WebSite8'
+  141  cd documents
+  142  cd 'Visual Studio 2015'
+  143  cd Projetcs
+  144  cd Projects
+  145  git clone https://nhlalalangobeni@dev.azure.com/nhlalalangobeni/PartsUnlimited/_git/PartsUnlimited
+  146  ls
+  147  cd PartsUnlimited
+  148  ls
+  149  code .
+  150  git reset --hard
+  151  ls
+  152  git commit
+  153  git reset --hard
+  154  ls
+  155  git push -u origin WebKPIReports
+  156  git commit
+  157  git commit -a
+  158  git push -u origin WebKPIReports
+  159  git checkout WebKPIReports
+  160  git push origin WebKPIReports
+  161  git fetch && git checkout WebKPIReports
+  162  git fetch && git checkout QA
+  163  git fetch && git checkout QA
+  164  git commit --all
+  165  rm -f .git/index.lock
+  166  git push origin QA
+  167  git push origin WebKPIReports
+  168  git commit --all
+  169  git status
+  170  git add CQWMS.sln
+  171  git add CQWMS/
+  172  git remote add origin https://bitbucket.org/CQ-DEVELOPERS/kpireports/branch/WebKPIReports
+  173  git remote add origin WebKPIReports
+  174  git push origin WebKPIReports
+  175  git remote add origin https://bitbucket.org/CQ-DEVELOPERS/kpireports/branch/WebKPIReports
+  176  git remote -v
+  177  git push origin
+  178  git push origin
+  179  $ git remote add github justngo@bitbucket.org/CQ-DEVELOPERS/kpireports.git
+  180  git remote add github justngo@bitbucket.org/CQ-DEVELOPERS/kpireports.git
+  181  code .
+  182  cat .git/config
+  183  git push origin WebKPIReports
+  184  git commit -a -m "cq reports code"
+  185  git push origin WebKPIReports
+  186  git push origin CQWMS:WebKPIReports
+  187  git pull origin master --allow-unrelated-histories
+  188  git pull origin master --allow-unrelated-histories
+  189  git pull origin master --allow-unrelated-histories
+  190  git checkout
+  191  git add .gitignore
+  192  git checkout
+  193  git pull origin WebKPIReports
+  194  ls
+  195  git pull origin WebKPIReports --allow-unrelated-histories
+  196  git all --all
+  197  git all -all
+  198  git add --all
+  199  git commit -m "cq reports"
+  200  git push origin WebKIPReports
+  201  git pull origin WebKPIReports
+  202  git pull origin WebKPIReports --allow-unrelated-histories
+  203  git push origin WebKPIReports
+  204  git push origin github:WebKPIReports
+  205  git add -all
+  206  git add --all
+  207  git commit -m "cq web kpi reports initial commit"
+  208  ls
+  209  git push origin github:WebKPIReports
+  210  git pull --rebase origin WebKPIReports
+  211  git push -u origin github:webKPIReports
+  212  code .
+  213  ls
+  214  cd WebKPIReports
+  215  code .
+  216  code .
+  217  code .
+  218  git config --global user.name
+  219  git config --global user.name nhlalala ngobeni
+  220  git config --global user.email nhlalalangobeni@nhlalalangobeni.onmicrosoft.com
+  221  git fetch && git checkout WebKPIReports
+  222  cd documents
+  223  cd 'Visual Studio 2015'
+  224  cd Projects
+  225  cd CQWMS
+  226  git reset --hard
+  227  ls
+  228  cd CQReports
+  229  ls
+  230  cd ~
+  231  cd documents
+  232  cd 'Visual Studio 2015'
+  233  cd Projects
+  234  cd CQWMS
+  235  git reset --hard HEAD
+  236  git reset 2185af0
+  237  git reflog
+  238  git reset --hard origin/WebKPIReports
+  239  git reflog
+  240  git reset HEAD{0} --hard
+  241  git reset Head@ --hard
+  242  git reflog
+  243  git reset 2185af0 --hard
+  244  git reset 1f12fbs --hard
+  245  git rebase --abort
+  246  ls
+  247  git reset --hard
+  248  ls
+  249  git init
+  250  ls
+  251  git remote add origin https://justngo@bitbucket.org/justngo/testingrepository.git
+  252  git push -u origin master
+  253  git clone https://justngo@bitbucket.org/justngo/testingrepository.git
+  254  ls
+  255  cd testing repository
+  256  cd testingrepository
+  257  code .
+  258  cd desktop
+  259  mkdir workcode
+  260  cd workcode
+  261  git fetch && git checkout feature/KPIReports
+  262  git config --list
+  263  git config --global user.name "Quenten Ngobeni"
+  264  git config --global user.email "quentenn@cquential.com"
+  265  git config --list
+  266  exit
+  267  code .
+  268  git commit -a
+  269  git add
+  270  git add -all
+  271  git add --all
+  272  cd music
+  273  git clone https://justngo@bitbucket.org/CQ-DEVELOPERS/kpireports.git
+  274  cfd kpireports
+  275  cd Kpireports
+  276  code .
+  277  code .
+  278  code .
+  279  code .
+  280  git add --all
+  281  code .
+  282  code .
+  283  code .
+  284  cd music
+  285  ls
+  286  cd kpireports
+  287  code .
+  288  git fetch && git checkout feature/kpiwebreports
+  289  cd documents
+  290  cd cqprojects
+  291  mkdir otherbranch
+  292  cd otherbranch
+  293  git init
+  294  git fetch && git checkout release/QA
+  295  git fetch && git checkout release/QA
+  296  git init
+  297  git fetch && git checkout release/QA
+  298  cd documets
+  299  cd documents
+  300  cd cqprojects
+  301  mkdir cqwebreports
+  302  cd cqwebreports
+  303  git clone https://justngo@bitbucket.org/CQ-DEVELOPERS/kpireports.git
+  304  git fetch && git checkout release/QA
+  305  git fetch && git checkout feature/cqwebreports
+  306  cd documents
+  307  cd cqprojects
+  308  ls
+  309  dir
+  310  mkdir cqfairfields
+  311  cd cqfairfields
+  312  mkdir manageshelflife
+  313  cd manageshelflife
+  314  git clone https://justngo@bitbucket.org/CQ-DEVELOPERS/fairfieldsdairy.git
+  315  code .
+  316  cd documents
+  317  cd cqprojects
+  318  mkdir sensoryFxGhostProblem
+  319  cd sensoryFxGhostProblem
+  320  git clone https://justngo@bitbucket.org/CQ-DEVELOPERS/sensoryfx.git
+  321  cd documents
+  322  cd cqprojects
+  323  cd fairfields
+  324  dir
+  325  cd cqfairfields
+  326  mkdir FairFieldVersion2
+  327  git clone https://justngo@bitbucket.org/CQ-DEVELOPERS/fairfieldsdairy.git
+  328  git clone https://justngo@bitbucket.org/CQ-DEVELOPERS/kpireports.git
+  329  cd documents
+  330  cd cqprojetcs
+  331  mkdir fitnessmobileapp
+  332  cd fitnessmobileapp
+  333  git clone https://atg2020developers@bitbucket.org/atg2020developers/fitnessapp.git
+  334  cd cqprojects
+  335  cd documents/cqprojetcs
+  336  cd documents
+  337  cd cqprojects
+  338  ls
+  339  git clone https://justngo@bitbucket.org/CQ-DEVELOPERS/cqwmstransit.git
+  340  git clone https://justngo@bitbucket.org/CQ-DEVELOPERS/cqwmsbase.git
+  341  cd documents
+  342  cd cqprojects
+  343  git clone https://justngo@bitbucket.org/CQ-DEVELOPERS/satyre.git
+  344  git clone https://atg2020developers@bitbucket.org/atg2020developers/fitnessapp.git
+  345  cd documents
+  346  cd cqprojetcs
+  347  dir
+  348  cd CQProjects
+  349  git clone https://justngo@bitbucket.org/CQ-DEVELOPERS/famousbrands.git
+  350  git fetch origin
+  351  git merge origin KPIReports
+  352  cd Documents
+  353  cd CQProjects
+  354  git clone https://justngo@bitbucket.org/CQ-DEVELOPERS/wellness.git
+  355  code .
+  356  cd Documents
+  357  cd CQProjects
+  358  cd Volumetrics
+  359  mkdir Voulmetrics
+  360  cd Voulmetrics
+  361  git clone https://justngo@bitbucket.org/CQ-DEVELOPERS/famousbrands.git
+  362  cd C:\Users\qngobeni\Videos\Captures
+  363  cd ~
+  364  cd Videos
+  365  cd Captures
+  366  git clone https://justngo@bitbucket.org/CQ-DEVELOPERS/teknosa.git
+  367  cd Videos
+  368  git clone https://justngo@bitbucket.org/CQ-DEVELOPERS/teknosa.git
+  369  cd Videos
+  370  mkdir HRInternFitnessApp
+  371  cd HRInternfitnessApp
+  372  git clone https://atg2020developers@bitbucket.org/atg2020developers/fitnessapp.git
+  373  git clone https://justngo@bitbucket.org/CQ-DEVELOPERS/moresport.git
+  374  git fetch && git checkout EDS-848-teknosa---jobs-split-by-zones
+  375  git clone https://justngo@bitbucket.org/CQ-DEVELOPERS/cqwmsbase.git
+  376  git clone https://justngo@bitbucket.org/CQ-DEVELOPERS/famousbrands.git
+  377  git status
+  378  git checkout origin/EDS-894-UpdatingPutawayOperatorJob
+  379  git stash
+  380  git checkout origin/EDS-894-UpdatingPutawayOperatorJob
+  381  git cherry-pick 352fdfc
+  382  @echo off
+  383  setLocal EnableDelayedExpansion
+  384  for /f "tokens=* delims= " %%a in (locations.txt) do (
+  385  @echo off
+  386  setLocal EnableDelayedExpansion
+  387  for /f "tokens=* delims= " %%a in (locations.txt) do (
+  388  @echo off
+  389  setLocal EnableDelayedExpansion
+  390  for /f "tokens=* delims= " %%a in (locations.txt) do (
+  391  @echo off
+  392  setLocal EnableDelayedExpansion
+  393  for /f "tokens=* delims= " %%a in (locations.txt) do (
+  394  @echo off
+  395  setLocal EnableDelayedExpansion
+  396  for /f "tokens=* delims= " %%a in locations.txt do (
+  397  git log --oneline
+  398  git clone https://justngo@bitbucket.org/CQ-DEVELOPERS/performancebrands.git
+  399  git clone https://justngo@bitbucket.org/CQ-DEVELOPERS/ambasaam.git
+  400  git clone https://justngo@bitbucket.org/CQ-DEVELOPERS/renttech.git
+  401  git clone https://justngo@bitbucket.org/CQ-DEVELOPERS/sensoryfx.git
+  402  git clone https://justngo@bitbucket.org/CQ-DEVELOPERS/integration-dolfin.git
+  403  git clone https://justngo@bitbucket.org/CQ-DEVELOPERS/moresport.git
+  404  mapfile -t a < input.txt      # read input file into array a
+  405  printf -v x "'%s'," "${a[@]}" # add single quotes and commas, save result in variable x
+  406  printf -v query 'select * from table where columnname in (%s);' "${x:0:-1}" # strip the last comma from x
+  407  mapfile -t a < products.txt      # read input file into array a
+  408  printf -v x "'%s'," "${a[@]}" # add single quotes and commas, save result in variable x
+  409  printf -v query 'select * from table where columnname in (%s);' "${x:0:-1}" # strip the last comma from x
+  410  printf '%s\n' "$query"        # print query
+  411  git clone https://justngo@bitbucket.org/CQ-DEVELOPERS/teknosa.git
+  412  exit
+  413  cd Documents
+  414  cd "Other Projects"
+  415  cd umu
+  416  ls
+  417  mkdir git-basic-exercises
+  418  cd git-basic-exercises
+  419  git init
+  420  ls
+  421  ls -a
+  422  ls
+  423  git status
+  424  touch README.md
+  425  ls
+  426  ls -a
+  427  git status
+  428  git log
+  429  git add README.md
+  430  git status
+  431  git remove README.md
+  432  git rem README.md
+  433  git rm README.md
+  434  --help
+  435  git --help
+  436  git rm README.md
+  437  git rm -f README.md
+  438  git status
+  439  touch README.md
+  440  git add README.md
+  441  git status
+  442  git commit -m "Initial commit"
+  443  git log
+  444  q
+  445  q
+  446  nano README.md
+  447  more README.md
+  448  cat README.md
+  449  git stats
+  450  git status
+  451  git commit -m "second commit"
+  452  git add README.md
+  453  git commit -m "second commit"
+  454  nano README.md
+  455  cat README.md
+  456  git add README.md
+  457  git commit -m "third commit"
+  458  git log
+  459  git checkout 40c87d3ad5607ace325f4019e5d112ca0dc2df88
+  460  cat README.md
+  461  git checkout main
+  462  git checkout master
+  463  cat README.md
+  464  git branch
+  465  git --help
+  466  git branch create milkshake-flavours
+  467  git branch create "milkshake-flavours"
+  468  git branch "milkshake-flavours"
+  469  git branch
+  470  git checkout milkshake-flavours
+  471  git branch
+  472  nano milkshakes.md
+  473  git status
+  474  git add milkshakes.md
+  475  cat milkshakes.md
+  476  git commit -m "added initial flavours"
+  477  git log
+  478  git checkout master
+  479  git log
+  480  git branch
+  481  git branch history
+  482  got checkout history
+  483  git checkout history
+  484  gir branch
+  485  git branch
+  486  git log
+  487  git branch
+  488  history > history.txt
